@@ -1,1 +1,2 @@
-# bjrenterprise.github.io
+# bjrenterprise.com
+# organization website
